@@ -4,5 +4,4 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
-    <h3>test QCQ By Bill</h3>
 </asp:Content>
